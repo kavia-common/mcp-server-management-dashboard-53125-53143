@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/mcp-server-management-dashboard-53125-53143/mcp_dashboard_frontend"
+}
